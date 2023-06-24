@@ -12,10 +12,10 @@
 
 [Visit the Deployed Site](https://lth1013.github.io/module-1-challenge/)
 
-My site is a refactored page using CSS, HTML, and Git. I refactored the CSS and HTML in order to make it more accessible. This website is about a company named 
+My site is a refactored page using CSS, HTML, and Git. I refactored the CSS and HTML in order to make it more accessible. This website is about a company named Horiseon that does SEO, Online Reputation Management, and Social Media Marketing.
 
 
-![Site Langing Page](./site.gif)
+![Site Langing Page](https://gyazo.com/986a5c89d641b8b9abbe2b3fdefa4dca)
 
 
 ## Code Refactor Example
@@ -42,7 +42,7 @@ What are the steps required to install your project? Provide a step-by-step desc
     </div>
 ```
 
-Converting the above non-semantic div with the class of 'header' to an appropriate [<header> semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp). 
+Converting the above non-semantic div with the class of 'header' to an appropriate header semantic element.
 
 ```html
 <header>
