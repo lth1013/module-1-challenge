@@ -20,9 +20,6 @@ My site is a refactored page using CSS, HTML, and Git. I refactored the CSS and 
 
 ## Code Refactor Example
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-
 ```html
 <div class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
