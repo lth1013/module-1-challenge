@@ -15,7 +15,7 @@
 My site is a refactored page using CSS, HTML, and Git. I refactored the CSS and HTML in order to make it more accessible. This website is about a company named Horiseon that does SEO, Online Reputation Management, and Social Media Marketing.
 
 
-[Site Landing Page]()
+[Site Landing Page](https://gyazo.com/d3e87c90152f89fa9b9b5d324697ce0d)
 
 
 ## Code Refactor Example
