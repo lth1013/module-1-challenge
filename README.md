@@ -15,7 +15,7 @@
 My site is a refactored page using CSS, HTML, and Git. I refactored the CSS and HTML in order to make it more accessible. This website is about a company named Horiseon that does SEO, Online Reputation Management, and Social Media Marketing.
 
 
-![Site Langing Page](https://gyazo.com/986a5c89d641b8b9abbe2b3fdefa4dca)
+[Site Landing Page]()
 
 
 ## Code Refactor Example
@@ -105,7 +105,7 @@ Luke Harriman
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Luke Harriman]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
