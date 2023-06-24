@@ -19,10 +19,10 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* dont have seo in html anymore so commented out */
+/* .header h1 .seo {
     color: #d9dcd6;
-}
+} */
 
 .header div {
     padding-top: 15px;
